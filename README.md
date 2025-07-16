@@ -1,3 +1,3 @@
 # demo
-# my 1st git
-#author- Surjendu Nandi
+my 1st git
+author- Surjendu Nandi
